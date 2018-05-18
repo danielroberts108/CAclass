@@ -1,8 +1,3 @@
-class Question:
-    def __init__(self):
+import login, signup
 
-
-    def ask(self, subject, difficulty):
-
-
-    def checkanswer(self, subject, difficulty):
+login()
